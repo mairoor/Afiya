@@ -138,24 +138,48 @@ footer {
 }
 
 footer .contac a {
+
     box-shadow: none;
+
     color: white;
+
     margin: 5px auto;
+
     text-decoration: none;
+    text-align:center;
+    
+
 }
+
+
 
 footer .contac {
+
     margin-bottom: 25px;
-    text-align: left;
+
+    text-align: center;
+    
+
 }
+
+
 
 footer p {
+
     color: black;
+
     font-size: 14px;
+
 }
 
-.fa-regular {
-    width: 40px;
-    height: 40px;
-    color: white;
+
+
+.fa-brands {
+
+    color:white;
+    font-size:22px;
+
+    
+    
+
 }
